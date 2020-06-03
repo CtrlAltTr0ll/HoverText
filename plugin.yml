@@ -1,0 +1,29 @@
+name: HoverText
+prefix: HoverText
+main: ctrlalttr0ll\pmmp\HoverText\Core
+version: 3.4.7
+api: 3.10.0 # pmmp/PocketMine-MP
+mcpe-protocol:
+  - 388 # 1.13.x
+  - 389 # 1.14.x
+  - 390 # 1.14.60
+softdepend:
+  - FormAPI # jojoe77777/FormAPI
+virions:
+  - libFormAPI # jojoe77777/libFormAPI
+author: CtrlAltTr0ll
+
+website: https://github.com/CtrlAltTr0ll/HoverText
+
+permissions:
+ texter.*:
+  default: op
+  description: permission that allows player to use texter
+  children:
+   texter.command.*:
+    default: op
+    description: permission that allows player to use texter commands
+    children:
+      texter.command.txt:
+        default: true
+        description: permission that allows player to use /txt
