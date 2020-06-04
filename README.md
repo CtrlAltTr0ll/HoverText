@@ -1,6 +1,4 @@
 <img src="/assets/HoverText.png" width="400px">  
-
-### Overview
 ***
 ## HoverText
 
