@@ -35,10 +35,10 @@ use ctrlalttr0ll\pmmp\HoverText\text\Text;
 use ctrlalttr0ll\pmmp\HoverText\text\UnremovableFloatingText;
 
 /**
- * Class HoverTextApi
+ * Class TexterApi
  * @package ctrlalttr0ll\pmmp\HoverText
  */
-class HoverTextApi {
+class TexterApi {
 
   /** @var array */
   private static $ufts = [];
