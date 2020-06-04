@@ -43,36 +43,3 @@ Select another language:
 |Help|`/txt or /txt help`|`/txt ?`|
 
 **Please use `#` for line breaks.**
-
-### json notation
-
-- uft.json
-```json
-{
-  "LevelFolderName": {
-    "TextName(Unique)": {
-      "Xvec": 128,
-      "Yvec": 90,
-      "Zvec": 128,
-      "TITLE": "Title",
-      "TEXT": "Text(New line with #)"
-    }
-  }
-}
-```
-
-- ft.json
-```json
-{
-  "LevelFolderName": {
-    "TextName1(Unique)": {
-      "Xvec": 128,
-      "Yvec": 90,
-      "Zvec": 128,
-      "TITLE": "Title",
-      "TEXT": "Text(New line with #)",
-      "OWNER": "Steve"
-    }
-  }
-}
-```
