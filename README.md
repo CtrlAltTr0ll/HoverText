@@ -1,13 +1,5 @@
 <img src="/assets/HoverText.png" width="400px">  
 
-[![GitHub license](https://img.shields.io/badge/license-UIUC/NCSA-blue.svg)](https://github.com/CtrlAltTr0ll/HoverText/blob/master/LICENSE)
-[![](https://poggit.pmmp.io/shield.state/HoverText)](https://poggit.pmmp.io/p/HoverText)
-[![](https://poggit.pmmp.io/shield.api/HoverText)](https://poggit.pmmp.io/p/HoverText)  
-
-[![](https://poggit.pmmp.io/shield.dl/HoverText)](https://poggit.pmmp.io/p/HoverText) / [![](https://poggit.pmmp.io/shield.dl.total/HoverText)](https://poggit.pmmp.io/p/HoverText)
-
-[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/CtrlAltTr0ll/HoverText/HoverText)](https://poggit.pmmp.io/ci/CtrlAltTr0ll/HoverText/HoverText)
-
 ### Overview
 
 You can set the plugin language by changing the `locale` in [config.yml](/resources/config.yml)  
