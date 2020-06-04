@@ -1,5 +1,5 @@
 <img src="/assets/HoverText.png" width="400px">  
-***
+
 ## HoverText
 
 HoverText is plugin that displays and deletes FloatingTextParticle supported to multi-world.  
