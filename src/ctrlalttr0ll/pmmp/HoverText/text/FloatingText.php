@@ -121,7 +121,7 @@ class FloatingText extends Position implements Text {
 
   public function getIndentedTexts(bool $owned): string {
     $texts = "{$this->title}".TextFormat::RESET.TextFormat::WHITE."\n{$this->text}";
-    return $texts . ($owned ? "\n".TextFormat::GRAY."{$this->name}" : "");
+    return $texts . ($owned ? "\n".TextFormat::GRAY."" : "");
   }
 
   public function getTextsForCheck(int $mode = self::CHECK_CHAR): string {
