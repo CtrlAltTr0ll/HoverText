@@ -1,6 +1,23 @@
 <img src="/assets/HoverText.png" width="400px">  
 
 ### Overview
+***
+## HoverText
+
+HoverText is plugin that displays and deletes FloatingTextParticle supported to multi-world.  
+Latest: ver **3.4.7**  
+
+<!--
+**This branch is under development. It may have many bugs.**  
+-->
+
+### Supporting
+
+- [x] Minecraft(Bedrock)
+- [x] Multi-language (English, Japanese, Russian, Chinese, Turkish)
+- [x] Multi-world display
+
+### Language
 
 You can set the plugin language by changing the `locale` in [config.yml](/resources/config.yml)  
 also, supported languages are automatically displayed according to the locale of the client.
@@ -11,29 +28,6 @@ Select another language:
 [中文](./.github/readme/zh_cn.md),
 [Türkçe](./.github/readme/tr_tr.md)
 [한국어](./.github/readme/ko_kr.md)
-
-***
-
-## HoverText
-
-HoverText is plugin that displays and deletes FloatingTextParticle supported to multi-world.  
-Latest: ver **3.4.7**  
-
-
-<!--
-**This branch is under development. It may have many bugs.**  
--->
-
-
-### Supporting
-
-- [x] Minecraft(Bedrock)
-- [x] Multi-language (English, Japanese, Russian, Chinese, Turkish)
-- [x] Multi-world display
-
-### Download
-
-* [Poggit](https://poggit.pmmp.io/p/HoverText)
 
 ### Commands
 
